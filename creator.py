@@ -1,8 +1,7 @@
 ### contact me
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @Neo_Galaxy
-
-  from time import time #line:3
+from time import time #line:3
 from hashlib import md5 #line:4
 from copy import deepcopy #line:5
 from urllib .parse import urlparse #line:6
