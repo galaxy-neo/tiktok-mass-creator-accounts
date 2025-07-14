@@ -6,7 +6,6 @@ mass registration of tik tok accounts, tik tok likes, comments, tik tok latest v
 ## telegram: @Neo_Galaxy
 
 ## tiktok API
-
 1. login to the user by email and username
 2. register new device
 3. receive information of the user through user_id
